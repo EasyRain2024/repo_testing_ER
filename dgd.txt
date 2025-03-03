@@ -4,4 +4,8 @@ test2
 
 sono ste
 
+<<<<<<< Updated upstream
 ciao ciao
+=======
+Prova modifiche
+>>>>>>> Stashed changes
