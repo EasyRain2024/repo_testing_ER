@@ -1,0 +1,3 @@
+Ho creato 2 nuovi rami, come mi comporto con HEAD?
+
+Ora HEAD non è uscito
